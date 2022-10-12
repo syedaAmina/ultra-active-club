@@ -1,0 +1,32 @@
+.workout img {
+  margin-top: 10px;
+  width: 250px;
+  height: 150px;
+  border-radius: 10px;
+}
+.workout {
+  background-color: rgb(18, 202, 67);
+  width: 300px;
+  height: 320px;
+  border-radius: 10px;
+  position: relative;
+}
+.workout-info {
+  line-height: 0.8;
+}
+.workout-name {
+  font-size: 18px;
+  font-weight: 600;
+}
+.addlist {
+  background: #3b3b3a;
+  color: white;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 0%;
+  width: 100%;
+  font-size: 15px;
+}
